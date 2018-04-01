@@ -1,0 +1,26 @@
+assets/*
+
+
+favicon 1.ico
+favicon.ico
+rmdb.mwb.bak
+
+.idea
+
+img/*
+video/*
+
+assets/modal-intro/*
+
+library/rim_v1.0.sql
+library/rim_v1.1.sql
+library/rim_v1.2.sql
+library/rim_v1.3.sql
+
+library/linkLocal.php
+
+views/blogs/*
+
+index.html
+
+
